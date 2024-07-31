@@ -1,8 +1,8 @@
 ![program file](FCFS_22517.py)
 #sample output
-![sample output](FCFS sample output.png)
+![sample output](FCFSsampleoutput.png)
 #tested output
-![tested output](FCFS tested output.png)
+![tested output](FCFStestedoutput.png)
 
 
 
