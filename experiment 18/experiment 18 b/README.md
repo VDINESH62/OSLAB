@@ -4,7 +4,7 @@
 #program image
 ![program image](scan_program.png)
 #program output
-![program output](sacn_output.png)
+![program output](scan_output.png)
 
 
 
